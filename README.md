@@ -12,3 +12,10 @@ By Yiyang Che
 -[Hw02_1](src/hw02_part1.ipynb)
 
 -[Hw02_2](src/hw02_part2.ipynb)
+
+-[Hw03_1](src/hw03_part1.ipynb)
+
+-[Hw03_2](src/hw03_part2.ipynb)
+
+-[Hw03_3](src/hw03_part3.ipynb)
+
