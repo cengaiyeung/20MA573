@@ -19,3 +19,7 @@ By Yiyang Che
 
 -[Hw03_3](src/hw03_part3.ipynb)
 
+-[Hw04_1](src/hw04_part1.ipynb)
+
+-[Hw04_2](src/hw04_part2.ipynb)
+
