@@ -26,3 +26,7 @@ By Yiyang Che
 -[Hw05_1](src/hw05_part1.ipynb)
 
 -[Hw05_2](src/hw05_part2.ipynb)
+
+-[Hw06_1](src/hw06_part1.ipynb)
+
+-[Hw06_2](src/hw06_part2.ipynb)
