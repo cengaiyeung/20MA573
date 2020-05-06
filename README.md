@@ -44,3 +44,7 @@ By Yiyang Che
 -[Hw11_1](src/hw11_part1.ipynb)
 
 -[Hw12_1](src/hw12_part1.ipynb)
+
+## Final project
+
+-[Final_project](Final project/MA573_preproject.pdf)
