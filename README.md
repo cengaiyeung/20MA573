@@ -47,4 +47,4 @@ By Yiyang Che
 
 ## Final project
 
--[Final project](Final project/MA573_preproject.pdf)
+-[Final project](Final/MA573_preproject.pdf)
