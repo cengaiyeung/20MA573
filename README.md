@@ -51,4 +51,4 @@ By Yiyang Che
 
 -[Report](Final/MA573_Report.pdf)
 
--[Code](Solving_HJB_equations_in_a_value_space.ipynb)
+-[Code](Final/Solving_HJB_equations_in_a_value_space.ipynb)
